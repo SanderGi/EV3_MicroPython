@@ -1,0 +1,9 @@
+C:\Users\alexa\Desktop\EV3_MicroPython\drawingArmTest\DrawingStarter\bin\Debug\DrawingStarter.exe.config
+C:\Users\alexa\Desktop\EV3_MicroPython\drawingArmTest\DrawingStarter\bin\Debug\DrawingStarter.exe
+C:\Users\alexa\Desktop\EV3_MicroPython\drawingArmTest\DrawingStarter\bin\Debug\DrawingStarter.pdb
+C:\Users\alexa\Desktop\EV3_MicroPython\drawingArmTest\DrawingStarter\bin\Debug\DrawPanel.dll
+C:\Users\alexa\Desktop\EV3_MicroPython\drawingArmTest\DrawingStarter\bin\Debug\DrawPanel.xml
+C:\Users\alexa\Desktop\EV3_MicroPython\drawingArmTest\DrawingStarter\obj\Debug\DrawingStarter.csprojAssemblyReference.cache
+C:\Users\alexa\Desktop\EV3_MicroPython\drawingArmTest\DrawingStarter\obj\Debug\DrawingStarter.csproj.CopyComplete
+C:\Users\alexa\Desktop\EV3_MicroPython\drawingArmTest\DrawingStarter\obj\Debug\DrawingStarter.exe
+C:\Users\alexa\Desktop\EV3_MicroPython\drawingArmTest\DrawingStarter\obj\Debug\DrawingStarter.pdb
